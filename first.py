@@ -1,2 +1,2 @@
 #display the adding
-print("Yhis is the first one")
+print("This is the first one")
